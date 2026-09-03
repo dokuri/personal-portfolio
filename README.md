@@ -110,8 +110,8 @@ cd personal-portfolio
 
 | Platform | Link |
 |---|---|
-| 📧 Email | [dokurishilishreddy@gmail.com](mailto:dokurishilishreddy@gmail.com) |
-| 💼 LinkedIn | [dokuri-shilish-reddy](https://www.linkedin.com/in/dokuri-shilish-reddy) |
+| 📧 Email | [dokurishileshreddy@gmail.com](mailto:dokurishileshreddy@gmail.com) |
+| 💼 LinkedIn | [dokuri-shilish-reddy](https://www.linkedin.com/in/dokuri-shilish-reddy?utm_source=share_via&utm_content=profile&utm_medium=member_android) |
 | 🐙 GitHub | [github.com/dokuri](https://github.com/dokuri) |
 
 ---
