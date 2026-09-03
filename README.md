@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🚀 Shilish Reddy Dokuri — Personal Portfolio
 
 > **CSE Graduate · Full-Stack Web Developer · Data Analyst · Python Engineer**
@@ -124,3 +125,6 @@ This project is open source and available under the [MIT License](LICENSE).
 <p align="center">
   Built with ❤️ by <strong>Shilish Reddy Dokuri</strong> · Open to Opportunities — Web / Data / Python
 </p>
+=======
+# personal-portfolio
+>>>>>>> a598179aaf4bde3211b9d76e674b8c95fe94985d
